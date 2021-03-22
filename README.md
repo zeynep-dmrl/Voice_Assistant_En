@@ -1,6 +1,6 @@
 # Voice_Assistant_En
 
-A project to build a voice assistant using Python.
+The project to build personal voice assistant using Python.
 
 ## Setup
 First, you can download PyCharm on your computer from the link below.
